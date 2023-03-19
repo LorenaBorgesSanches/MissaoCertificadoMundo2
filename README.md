@@ -36,7 +36,7 @@ YANNICK MARIE PENICAUT PERDIGÃO      202205165027@alunos.estacio.br
 Objetivo da missão certificação do Mundo 2:
 Desenvolver uma aplicação para gerenciar entrevistas técnicas.
 Este projeto tem o objetivo de trabalhar com conceitos, ferramentas e padrões de
-design amplamente usados atualmente, como gerenciamento de estado,componentização, consulta a API's, tratamento de erros, modelos de arquiteturas etc.
+design amplamente usados atualmente, como gerenciamento de estado, componentização, tratamento de erros, modelos de arquiteturas etc.
 
 
 Framework utilizadas:
