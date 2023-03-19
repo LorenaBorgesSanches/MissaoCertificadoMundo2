@@ -60,7 +60,7 @@ Executa o aplicativo no modo de desenvolvimento.
 Abra  http://localhost:3001  para visualizá-lo no navegador.
 A página será recarregada se você fizer edições.
 Você também verá quaisquer erros de lint no console.
-Sistema em funcionamento video no ytb: https://www.youtube.com/watch?v=viOPWlk1Z0E
+Deploy do site: https://missao-certificado-mundo2.vercel.app/
 
 
 
@@ -69,3 +69,6 @@ Sistema em funcionamento video no ytb: https://www.youtube.com/watch?v=viOPWlk1Z
 npm install
 
 Para instalar as dependencias, se der algum erro.
+
+
+![image](https://user-images.githubusercontent.com/108297008/226206964-83100b5a-058c-431d-aa87-cbe91b71a76f.png)
