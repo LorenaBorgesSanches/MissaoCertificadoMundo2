@@ -1,15 +1,13 @@
 
 
-import Entrevista from "componente/Entrevista/entrevista";
+import VagasCadastro from "componente/VagasCadastro/vagasCadastro";
 
-
-function Usuario() {
+function Candidatar() {
   return (
     <div className="usuario-container">
-      
-      <Entrevista />
+      <VagasCadastro />
     </div>
   );
 }
 
-export default Usuario;
+export default Candidatar;
